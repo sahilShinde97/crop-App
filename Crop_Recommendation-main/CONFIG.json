@@ -1,0 +1,4 @@
+{
+	"raw_data_path" : "Data/Crop_recommendation.csv",
+	"model_folder" : "models/"
+}
